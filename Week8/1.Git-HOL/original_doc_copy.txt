@@ -1,0 +1,1 @@
+Original uploaded file: 1. Git-HOL.docx — contains step-by-step Git hands-on lab instructions (configure git, set editor, create repo, add file, push/pull). Referenced in chat. fileciteturn0file0
